@@ -1,0 +1,4 @@
+- Tortilla
+- Tomate
+- Ajo
+- Cebolla
